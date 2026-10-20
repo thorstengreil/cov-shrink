@@ -1,0 +1,7 @@
+# Core scientific libraries for covariance shrinkage estimators
+numpy>=1.20.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# External estimator packages
+scikit-learn>=1.0.0  # Required for OAS (Oracle Approximating Shrinkage)
